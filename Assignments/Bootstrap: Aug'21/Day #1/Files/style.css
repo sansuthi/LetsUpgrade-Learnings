@@ -1,0 +1,26 @@
+.my-container{
+    background-color: pink;
+    height: 100vh;
+    padding: 18vh;
+}
+.row{
+    height: 150px;
+    text-align: center;
+    font-style: italic;
+}
+.column1{
+    background-color: #FFF1F1;
+    color: 151515;
+}
+.column2{
+    background-color: #FDD2BF;
+    color: #810000;
+}
+.column3{
+    background-color: #E98580;
+     color: #DBF6E9;
+}
+.column4{
+    background-color: #DF5E5E;
+    color: #CCFFBD;
+}
