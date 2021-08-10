@@ -1,0 +1,37 @@
+.home{
+        padding: 50px;
+        margin: 12px;
+    }
+body{
+        background-image: url(photography.jpg);
+        height: 100%;
+        background-position: top right;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+#head{
+        font-style: oblique;
+        text-align: center;
+        margin: 30px 40px 10px 450px;
+   }
+.decor{
+        font-style: italic;
+        padding: 5px;
+        text-align: left;
+        color: #082032;
+        background-color: #F2DFD3;
+        border: 2.5px solid #082032;
+        border-radius: 10px;
+        margin: 20px 40px 10px 450px;
+    }
+h2{
+        color: #CD113B;
+        display: inline;
+}
+h2:hover{
+        color: white;
+}
+h3{
+         color: #F0E68C;
+         text-align: right;
+}
