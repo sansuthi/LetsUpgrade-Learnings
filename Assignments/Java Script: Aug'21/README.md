@@ -1,4 +1,4 @@
-## _Java Script Essentials: August '21_ 
+## _Java Script Essentials: August '21_
 | _Date_ | _Topic_ | _Assignment_ |
 | :----- | :------- | :-------- |
 | _02 August_ |  _Basics of JavaScript_ | [_Arithmetic Operations_](Day%20%231) |
