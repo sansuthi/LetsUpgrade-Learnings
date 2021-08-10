@@ -1,4 +1,4 @@
-## _Build Responsive Website: July '21_ 
+## _Build Responsive Website: July '21_
 | _Date_ | _Topic_ | _Assignment_ |
 | :----- | :------- | :-------- |
 | _29 July_ |  _Introduction and Basics_ | [_HTML Table_](Day%20%231) |
