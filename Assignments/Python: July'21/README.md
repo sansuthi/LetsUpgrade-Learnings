@@ -1,4 +1,4 @@
-## _Python Essentials: July '21_ 
+## _Python Essentials: July '21_
 | _Date_ | _Topic_ | _Assignment_ |
 | :----- | :------- | :-------- |
 | _27 July_ |  _Introduction and Basics to Python_ | [_Sorting_](files/Assignment_1.ipynb) |
