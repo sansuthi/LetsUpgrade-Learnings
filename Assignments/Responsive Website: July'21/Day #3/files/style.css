@@ -1,0 +1,115 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+.hero{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(portfolio.jpg)
+}
+.logo{
+    color: white;
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+span{
+    color: #F90084;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+ul li{
+    display: inline-block;
+    padding: 10px 30px;
+}
+ul li a{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover{
+    color: #F90084;
+}
+.button{
+    background-color: #F90084;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-width: bold;
+    padding: 10px 25px;
+    border-radius: 30px;
+    transition: transform .5s;
+}
+.button:hover{
+    transform: scale(1.1);
+}
+.content{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+}
+h1{
+    color: #F90084;
+    margin: 20px 0 20px;
+    font-size: 60px;
+}
+h3{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+h4{
+    color: #EEE8AA;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.newsletter form{
+    width: 400px;
+    max-width: 100%;
+    position: relative;
+}
+.newsletter form input:first-child{
+    width: 100%;
+    display: inline-block;
+    padding: 14px 130px 14px 15px;
+    border: 2px solid #F90084;
+    border-radius: 30px;
+}
+.newsletter form input:last-child{
+    position: absolute;
+    display: inline-block;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 30px;
+    background-color: #F90084;
+    color: white;
+    top: 6px;
+    right: 6px;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 35%;
+    padding-left: 50%;
+    padding-right: 10%;
+}
+.icon ul li a img{
+    width: 50px;
+    height: 50px;
+    border: 0.2px solid transparent;
+    border-radius: 30px;
+    transition: transform .3s;
+}
+.icon ul li a img:hover{
+    transform: scale(1.3);
+}
