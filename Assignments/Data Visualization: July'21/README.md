@@ -1,4 +1,4 @@
-## _Data Visualization with Python: July '21_
+## _Data Visualization using Python: July '21_
 
 | _Date_ | _Topic_ | _Assignment_ |
 | :----- | :------- | :-------- |
