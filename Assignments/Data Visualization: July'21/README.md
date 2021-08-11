@@ -8,3 +8,7 @@
 | _09 July_ |  _Introduction to Folium_ | [_Plotly_](files/Assignment_4.ipynb) |
 | _11 July_ |  _Dashboarding Overview_ | --------- |
 ---
+_Participation Certificate_ |  _Completion Certificate_
+:-----------------------:|:-------------------------:
+<img src="Certificates/participation.png">  |  <img src="Certificates/completion.png">
+---
