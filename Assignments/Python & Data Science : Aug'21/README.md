@@ -1,5 +1,5 @@
 ## _Python & Data Science: August '21_
-| _Date_ | _Topic_ | |
+| _Date_ | _Lesson_ | |
 | :----- | :------- | :-------- |
 | _02 August_ |  _Introduction & Basics of Array_ | [_Assignment 1_](files/Assignment_1.ipynb) |
 | _04 August_ |  _Numpy & Pandas_ | -------------- |
