@@ -9,5 +9,5 @@
 ---
 _Participation Certificate_ |  _Completion Certificate_
 :-----------------------:|:-------------------------:
-<img src="Certificates/participation.png">  |  <img src="Certificates/completion.png">
+<img src="https://github.com/sansuthi/LetsUpgrade-Learnings/blob/main/Certificates/Data%20Visualization:%20July'21/participation.png">  |  <img src="https://github.com/sansuthi/LetsUpgrade-Learnings/blob/main/Certificates/Data%20Visualization:%20July'21/completion.png">
 ---
