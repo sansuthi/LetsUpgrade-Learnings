@@ -1,4 +1,4 @@
-## _Bootstrap Essentials: August '21_ 
+## _Bootstrap Essentials: August '21_
 | _Date_ | _Lesson_ | _Assignment_ |
 | :----- | :------- | :-------- |
 | _06 August_ |  _Introduction to Bootstrap_ | [_container_](Day%20%231) |
