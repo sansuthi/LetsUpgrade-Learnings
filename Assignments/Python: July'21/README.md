@@ -1,5 +1,5 @@
 ## _Python Essentials: July '21_
-| _Date_ | _Topic_ | _Assignment_ |
+| _Date_ | _Lesson_ | _Assignment_ |
 | :----- | :------- | :-------- |
 | _27 July_ |  _Introduction and Basics to Python_ | [_Sorting_](files/Assignment_1.ipynb) |
 | _28 July_ |  _Loops and Conditional Statements_ | [_List, Pangram_](files/Assignment_2.ipynb) |
