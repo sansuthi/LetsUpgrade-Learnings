@@ -1,5 +1,4 @@
 ## _Data Visualization using Python: July '21_
-
 | _Date_ | _Lesson_ | _Assignment_ |
 | :----- | :------- | :-------- |
 | _05 July_ |  _Introduction_ | [_Line Plot_](files/Assignment_1.ipynb) |
