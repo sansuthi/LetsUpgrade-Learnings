@@ -1,5 +1,5 @@
 ## _Java Script Essentials: August '21_ 
-| _Date_ | _Topic_ | _Assignment_ |
+| _Date_ | _Lesson_ | _Assignment_ |
 | :----- | :------- | :-------- |
 | _02 August_ |  _Basics of JavaScript_ | [_Arithmetic Operations_](Day%20%231) |
 | _03 August_ |  _Conditional Statements & Loops_ | [_Array, Numbers_](Day%20%232) |
