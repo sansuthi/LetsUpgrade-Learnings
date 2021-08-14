@@ -3,5 +3,6 @@
 ### _2. Create another section and put childs with even gaps._
 ### _Both should be in the same page._
 ---
+![](Files/screenshot.png)
 
-
+---
