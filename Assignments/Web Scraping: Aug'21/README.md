@@ -3,5 +3,5 @@
 | :----- | :------- | :-------- |
 | _14 August_ | _Intro to Web Scraping_ | [__](Day%20%231) |
 | _15 August_ | _Intro to BeautifulSoup_ | [__](Day%20%232) |
-| _ August_ | __ | [__](Day%20%233) |
+| _16 August_ | _Intro to Scrapy_ | [__](Day%20%233) |
 ---
